@@ -26,3 +26,4 @@
 /node_modules/sql-escaper/
 /node_modules/undici-types/LICENSE
 /node_modules/undici-types/README.md
+.env
